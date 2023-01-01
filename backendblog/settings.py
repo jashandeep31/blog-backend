@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "tinymce",
     "taggit",
+    "rest_framework",
     "core.apps.CoreConfig",
     "user.apps.UserConfig",
 ]
